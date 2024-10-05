@@ -1,6 +1,6 @@
 # 🎓 MBA Food Business Programme - Data Science & Analytics Hub 🍽️
 
-Welcome to the [**MBA Food Business**](https://foodmba.in/). GitHub repository! Here, we showcase the talents and innovative projects of our faculty and students in the fields of data science, business analytics, and marketing. Our mission is to bridge the gap between education and industry, equipping students with practical experience and skills that are essential in today's analytics-driven world.
+Welcome to the [**MBA Food Business**](https://foodmba.in/) GitHub repository! Here, we showcase the talents and innovative projects of our faculty and students in the fields of data science, business analytics, and marketing. Our mission is to bridge the gap between education and industry, equipping students with practical experience and skills that are essential in today's analytics-driven world.
 
 > "MBA Food Business is not just about food; we explore a world of possibilities!" 🌍
 
