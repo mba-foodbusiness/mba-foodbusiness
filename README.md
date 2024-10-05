@@ -1,6 +1,6 @@
 # 🎓 MBA Food Business Programme - Data Science & Analytics Hub 🍽️
 
-Welcome to the [**MBA Food Business**] (https://foodmba.in/) GitHub repository! Here, we showcase the talents and innovative projects of our faculty and students in the fields of data science, business analytics, and marketing. Our mission is to bridge the gap between education and industry, equipping students with practical experience and skills that are essential in today's analytics-driven world.
+Welcome to the [**MBA Food Business**](https://foodmba.in/). GitHub repository! Here, we showcase the talents and innovative projects of our faculty and students in the fields of data science, business analytics, and marketing. Our mission is to bridge the gap between education and industry, equipping students with practical experience and skills that are essential in today's analytics-driven world.
 
 > "MBA Food Business is not just about food; we explore a world of possibilities!" 🌍
 
@@ -23,7 +23,7 @@ Explore the impressive projects developed by our talented students and faculty:
 We encourage all students and faculty to contribute! If you have a project you'd like to showcase:
 
 1. Create your repository in your GitHub account.
-2. Share the link with us via [this form](#) (https://forms.gle/ubuKMXWbbGpoarMb8).
+2. Share the link with us via [this form](https://forms.gle/ubuKMXWbbGpoarMb8).
 3. We will pull your projects into this repository for visibility and collaboration!
 
 ## 🤝 Get Involved
@@ -32,8 +32,8 @@ We welcome collaboration, feedback, and discussions! Feel free to reach out if y
 
 ## 📫 Connect with Us
 
-- **LinkedIn**: [Connect with MBA Food Business](#) (https://www.linkedin.com/in/mba-food-business)
-- **Instagram**: [Follow Us @mbafoodbiz](#) (https://www.instagram.com/mbafoobiz)
+- **LinkedIn**: [Connect with MBA Food Business](https://www.linkedin.com/in/mba-food-business)
+- **Instagram**: [Follow Us @mbafoodbiz](https://www.instagram.com/mbafoobiz)
 
 ### 🌟 Let’s Build the Future Together!
 
